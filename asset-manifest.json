@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vlad-M182.github.io/trello-clone-react/static/css/main.0e62f1d3.css",
-    "main.js": "/Vlad-M182.github.io/trello-clone-react/static/js/main.0a5e7de7.js",
-    "index.html": "/Vlad-M182.github.io/trello-clone-react/index.html",
-    "main.0e62f1d3.css.map": "/Vlad-M182.github.io/trello-clone-react/static/css/main.0e62f1d3.css.map",
-    "main.0a5e7de7.js.map": "/Vlad-M182.github.io/trello-clone-react/static/js/main.0a5e7de7.js.map"
+    "main.css": "/trello-clone-react/static/css/main.0e62f1d3.css",
+    "main.js": "/trello-clone-react/static/js/main.0a5e7de7.js",
+    "index.html": "/trello-clone-react/index.html",
+    "main.0e62f1d3.css.map": "/trello-clone-react/static/css/main.0e62f1d3.css.map",
+    "main.0a5e7de7.js.map": "/trello-clone-react/static/js/main.0a5e7de7.js.map"
   },
   "entrypoints": [
     "static/css/main.0e62f1d3.css",
